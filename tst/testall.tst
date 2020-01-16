@@ -21,5 +21,4 @@ gap> double(-1);
 
 # You can also test error messages, for example
 gap> double("a");
-Error, no method found! For debugging hints type ?Recovery from NoMethodFound
-Error, no 1st choice method found for `*' on 2 arguments
+Error, The argument must be an integer
