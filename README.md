@@ -38,3 +38,21 @@ The easiest way to navigate to Travis CI and Codecov reports is by using
 badges in the README file - remember to update URLs associated with them.
 
 7. Add Dockerfile and update the badge for Binder in the README file above.
+
+8. After you commit and push these changes, go to GitHub and click on the
+Binder badge. A message `Loading repository: ...` will be displayed, followed 
+by a non-interactive preview. Please be patient, since it may take a while, 
+depending on the current load on Binder. You can click on "Show" to monitor 
+the progress of the build in the build logs. When the server will be ready, 
+you will see the main Jupyter screen with a file browser. Click on the "New"
+button and select "GAP 4" to start a new GAP Jupyter notebook.
+
+In this notebook you can now combine code, input and output, and a text
+narrative to demonstrate your code and explain how it works. Please note 
+that the notebook will not be preserved after the window will be closed, but 
+you are able to download it via "File" -> "Download as" -> "Notebook (.ipynb)
+and then put it under version control, commit and push to GitHub, to make it
+available when you will launch the project on Binder next time.
+
+For further information about Jupyter, see
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html.
