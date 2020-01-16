@@ -23,4 +23,5 @@ as well).
 5. If steps 3-4 worked properly, then the next push to the GitHub repository
 will trigger Travis CI tests, and will upload code coverage report to Codecov
 once they will be completed. As a suggestion, you can edit URLs for Travis CI
-and Codecov badges in this file above.
+and Codecov badges in this file above. Alternatively, you may e.g. add a new
+test case to a test file.
