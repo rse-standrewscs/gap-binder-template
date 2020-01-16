@@ -25,3 +25,13 @@ will trigger Travis CI tests, and will upload code coverage report to Codecov
 once they will be completed. As a suggestion, you can edit URLs for Travis CI
 and Codecov badges in this file above. Alternatively, you may e.g. add a new
 test case to a test file.
+
+6. You can check the status of the tests in multiple ways. For example, you
+should be able to find a link to them from commits on GitHub. The URLs for
+your repository will have the form 
+
+    https://travis-ci.org/account-name/repository-name
+    https://codecov.io/gh/account-name/repository-name
+  
+The easiest way to navigate to Travis CI and Codecov reports is by using 
+badges in the README file - remember to update URLs associated with them.
