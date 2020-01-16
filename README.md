@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/alex-konovalov/gap-binder-template.svg?branch=master)](https://travis-ci.org/alex-konovalov/gap-binder-template)
 [![Code Coverage](https://codecov.io/github/alex-konovalov/gap-binder-template/coverage.svg?branch=master&token=)](https://codecov.io/gh/alex-konovalov/gap-binder-template)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alex-konovalov/gap-binder-template/master)
 
 # gap-binder-template
 Template for publishing reproducible GAP experiments in Jupyter notebooks runnable on Binder
@@ -35,3 +36,5 @@ your repository will have the form
   
 The easiest way to navigate to Travis CI and Codecov reports is by using 
 badges in the README file - remember to update URLs associated with them.
+
+7. Add Dockerfile and update the badge for Binder in the README file above.
