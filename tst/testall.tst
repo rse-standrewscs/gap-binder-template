@@ -3,10 +3,10 @@
 #
 # To run a single test, call 
 #
-#     Read("gapcode.g");
+#     Read("../gapcode.g");
 #     Test("testall.tst");
 #
-# in GAP (use full path to the file, if necessary)
+# in GAP (correct path to the file, if necessary)
 #
 # However, you can more conveniently test all `.tst` files in this directory by 
 # reading `tst/testall.g` file into GAP (from the root directory of this repository).
