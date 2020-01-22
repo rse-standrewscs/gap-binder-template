@@ -11,9 +11,9 @@ Template for publishing reproducible GAP experiments in Jupyter notebooks runnab
 
 2. Add `tst` directory with files `testall.g` and `testall.tst`
 
-3. Add `.travis.yml` and `.codecov.yml` files. These have standard setup
-for GAP and will most likely not require any modifications. However, if 
-you need to clone and/or build some GAP packages, you can specify that in 
+3. Add `.travis.yml` and `.codecov.yml` files (remember, the initial dot is important!). 
+These have standard setup for GAP and will most likely not require any modifications. 
+However, if you need to clone and/or build some GAP packages, you can specify that in 
 `.travis.yml` in `GAP_PKGS_TO_CLONE` and `GAP_PKGS_TO_BUILD`.
 
 3. Log in with GitHub to https://travis-ci.org/. You will have to authorise
