@@ -5,9 +5,11 @@
 # gap-binder-template
 Template for publishing reproducible GAP experiments in Jupyter notebooks runnable on Binder
 
+0. Create a new repository for your project, and navigate to the directory with a clone of this repository
+
 1. Place GAP code (only functions, no actual calculations) in `gapcode.g`
 
-2. Add `tst/testall.g` and `tst/testall.tst` files
+2. Add `tst` directory with files `testall.g` and `testall.tst`
 
 3. Add `.travis.yml` and `.codecov.yml` files. These have standard setup
 for GAP and will most likely not require any modifications. However, if 
