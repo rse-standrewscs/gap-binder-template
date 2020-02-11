@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/rse-standrewscs/gap-binder-template.svg?branch=master)](https://travis-ci.org/rse-standrewscs/gap-binder-template)
 [![Code Coverage](https://codecov.io/github/rse-standrewscs/gap-binder-template/coverage.svg?branch=master&token=)](https://codecov.io/gh/rse-standrewscs/gap-binder-template)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rse-standrewscs/gap-binder-template/master)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662155.svg)](https://doi.org/10.5281/zenodo.3662155)
+
 
 # gap-binder-template
 Template for publishing reproducible GAP experiments in Jupyter notebooks runnable on Binder
@@ -58,3 +60,7 @@ available when you will launch the project on Binder next time.
 
 For further information about Jupyter, see
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html.
+
+8. When your project is ready for the release, make it citable by archiving it
+(with assigning a DOI) on the data archiving tool Zenodo (https://zenodo.org/), 
+following instructions at https://guides.github.com/activities/citable-code/.
