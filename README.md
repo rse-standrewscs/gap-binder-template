@@ -67,6 +67,7 @@ following instructions at https://guides.github.com/activities/citable-code/.
 
 Some examples of GAP Jupyter notebooks by various authors, runnable on mybinder.org:
 - [Álgebra conmutativa y computacional](https://github.com/pedritomelenas/Algebra-conmutativa-y-computacional)
+- [Checking counterexample to Kaplansky units conjecture](https://github.com/alex-konovalov/Kaplansky-units-counterexample)
 - [OpenDreamKit GAP demos](https://github.com/OpenDreamKit/gap-demos)
 - [YAGS on Jupyter notebooks](https://github.com/iarobles/demo-yags)
 - [Unipotent element construction](https://github.com/sukru-yalcinkaya/unipoly)
