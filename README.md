@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rse-standrewscs/gap-binder-template.svg?branch=master)](https://travis-ci.org/rse-standrewscs/gap-binder-template)
+[![Build Status](https://github.com/rse-standrewscs/gap-binder-template/workflows/CI/badge.svg?branch=master)](https://github.com/rse-standrewscs/gap-binder-template/actions?query=workflow%3ACI+branch%3Amaster)
 [![Code Coverage](https://codecov.io/github/rse-standrewscs/gap-binder-template/coverage.svg?branch=master&token=)](https://codecov.io/gh/rse-standrewscs/gap-binder-template)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rse-standrewscs/gap-binder-template/master)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662155.svg)](https://doi.org/10.5281/zenodo.3662155)
