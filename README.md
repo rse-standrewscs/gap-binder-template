@@ -61,7 +61,7 @@ following instructions at https://guides.github.com/activities/citable-code/.
 
 Some examples of GAP Jupyter notebooks by various authors, runnable on mybinder.org:
 - [Álgebra conmutativa y computacional](https://github.com/pedritomelenas/Algebra-conmutativa-y-computacional)
-- [Checking counterexample to Kaplansky units conjecture](https://github.com/alex-konovalov/Kaplansky-units-counterexample)
+- [Checking counterexample to Kaplansky units conjecture](https://github.com/olexandr-konovalov/Kaplansky-units-counterexample)
 - [Generators of Symmetric Subgroup](https://github.com/Surwalia/generatorsymmetricsubgroup)
 - [OpenDreamKit GAP demos](https://github.com/OpenDreamKit/gap-demos)
 - [YAGS on Jupyter notebooks](https://github.com/iarobles/demo-yags)
