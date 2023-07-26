@@ -66,3 +66,4 @@ Some examples of GAP Jupyter notebooks by various authors, runnable on mybinder.
 - [OpenDreamKit GAP demos](https://github.com/OpenDreamKit/gap-demos)
 - [YAGS on Jupyter notebooks](https://github.com/iarobles/demo-yags)
 - [Unipotent element construction](https://github.com/sukru-yalcinkaya/unipoly)
+- [GAP package FFCSA - Finite Fields Constructions, Search and Algorithms](https://github.com/nzidaric/ffcsa/)
