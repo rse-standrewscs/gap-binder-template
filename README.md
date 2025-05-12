@@ -67,3 +67,4 @@ Some examples of GAP Jupyter notebooks by various authors, runnable on mybinder.
 - [YAGS on Jupyter notebooks](https://github.com/iarobles/demo-yags)
 - [Unipotent element construction](https://github.com/sukru-yalcinkaya/unipoly)
 - [GAP package FFCSA - Finite Fields Constructions, Search and Algorithms](https://github.com/nzidaric/ffcsa/)
+- [Generalised triangle groups of type (2,3,2) with no cyclic essential representations](https://github.com/olexandr-konovalov/generalised-triangle-groups-232)
